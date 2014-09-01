@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">LapTimer</string>
+<string name="Start">Start</string>
+    <string name="Stop">Stop</string>
+    <string name="timerVal">00:00.0</string>
+    <string name="startLabel">Start</string>
+    <string name="stopLabel">Stop</string>
+    <string name="resetLabel">Reset</string>
+    <string name="best">Best:</string>
+    <string name="worst">Worst:</string>
+    <string name="average">Average:</string>
+    <string name="current">Current:</string>
+    <string name="save">Save Time</string>
+    <string name="message">Would you like to save a message?</string>
+    <string name="pos">Save</string>
+    <string name="neg">Discard</string>
+</resources>
